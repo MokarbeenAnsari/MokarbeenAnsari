@@ -15,6 +15,6 @@
 
 <p align="center">
   <a href="http://youtube.com/mokarbeenansari?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCAXF1XO7PP6rX9is-brdT3A?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Mokarbeen Ansari's YouTube channel"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCAXF1XO7PP6rX9is-brdT3A?style=for-the-badge&logo=youtube&label=Youtube&color=red" alt="Mokarbeen Ansari's YouTube channel"/>
   </a>
 </p>
