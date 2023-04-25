@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokarbeenansari&label=Profile%20views&color=0e75b6&style=flat" alt="mokarbeenansari" /> </p>
 
-- 🌱 I’m currently learning **about artificial intelligence.**
+- 🌱 I’m currently learning about **artificial intelligence.**
 
 - 💬 Ask me about **machine learning, deep learning, computer vision and google cloud.**
 
