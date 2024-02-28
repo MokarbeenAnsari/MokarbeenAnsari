@@ -1,4 +1,4 @@
-![logo](https://github.com/MokarbeenAnsari/MokarbeenAnsari/blob/main/genai_github_02.png)
+![logo](https://github.com/MokarbeenAnsari/MokarbeenAnsari/blob/main/genai_github_01.png)
 <h1 align="center">Hi 👋, I'm Mokarbeen</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 
