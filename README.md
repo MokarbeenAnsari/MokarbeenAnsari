@@ -1,4 +1,4 @@
-<img src="https://github.com/MokarbeenAnsari/MokarbeenAnsari/blob/main/genai_github_03.png" style="width: 100%;">
+<img src="https://github.com/MokarbeenAnsari/MokarbeenAnsari/blob/main/genai_github_01.png" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Mokarbeen</h1>
 <h3 align="center">A passionate Data Scientist from India.</h3>
 
